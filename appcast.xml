@@ -3,11 +3,11 @@
     <channel>
         <title>RiftSkin</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Fri, 06 Mar 2026 15:50:33 +0000</pubDate>
+            <title>0.1.5</title>
+            <pubDate>Fri, 06 Mar 2026 18:10:17 +0000</pubDate>
             <link>https://riftskin.com</link>
-            <sparkle:version>381</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:version>404</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<!doctype html>
@@ -15,15 +15,15 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>RiftSkin 0.1.4</title>
+  <title>RiftSkin 0.1.5</title>
 </head>
 <body>
-  <h1>RiftSkin 0.1.4</h1>
+  <h1>RiftSkin 0.1.5</h1>
   <p>New macOS release for RiftSkin.</p>
 </body>
 </html>
 ]]></description>
-            <enclosure url="https://github.com/tdaval-78/riftskin-updates/releases/download/v0.1.4/RiftSkin-0.1.4-macos-arm64.zip" length="15752252" type="application/octet-stream" sparkle:edSignature="E0HZgwfGoDzivwoFKeJgVsn4pOIcO0pZle4E6tBZtjHjg1GsfIxmptdVi+i080CznWJupF53mT5mhieH+6gUCg=="/>
+            <enclosure url="https://github.com/tdaval-78/riftskin-updates/releases/download/v0.1.5/RiftSkin-0.1.5-macos-arm64.zip" length="15767743" type="application/octet-stream" sparkle:edSignature="/pMVEbgHYKWs2H7h3iak3ewjmto4xuXrWNlyNasbd4OgRTvFWClW+mO9c5m33T5fzmVzw6qL7ai3EcIHRGnpDA=="/>
         </item>
     </channel>
 </rss>
