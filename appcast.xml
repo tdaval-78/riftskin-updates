@@ -1,29 +1,25 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>RiftSkin</title>
-        <item>
-            <title>0.1.5</title>
-            <pubDate>Fri, 06 Mar 2026 18:10:17 +0000</pubDate>
-            <link>https://riftskin.com</link>
-            <sparkle:version>404</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>RiftSkin 0.1.5</title>
-</head>
-<body>
-  <h1>RiftSkin 0.1.5</h1>
-  <p>New macOS release for RiftSkin.</p>
-</body>
-</html>
-]]></description>
-            <enclosure url="https://github.com/tdaval-78/riftskin-updates/releases/download/v0.1.5/RiftSkin-0.1.5-macos-arm64.zip" length="15767743" type="application/octet-stream" sparkle:edSignature="/pMVEbgHYKWs2H7h3iak3ewjmto4xuXrWNlyNasbd4OgRTvFWClW+mO9c5m33T5fzmVzw6qL7ai3EcIHRGnpDA=="/>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>RiftSkin Updates</title>
+    <link>https://riftskin.com</link>
+    <description>RiftSkin macOS updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 26.3.14</title>
+      <sparkle:version>122</sparkle:version>
+      <sparkle:shortVersionString>26.3.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 26 Mar 2026 18:40:13 GMT</pubDate>
+      <description><![CDATA[<a href="https://raw.githubusercontent.com/tdaval-78/riftskin-updates/main/RiftSkin-26.3.14.html">Release notes</a>]]></description>
+      <enclosure
+        url="https://github.com/tdaval-78/riftskin-updates/releases/download/v26.3.14/RiftSkin-26.3.14.zip"
+        sparkle:version="122"
+        sparkle:shortVersionString="26.3.14"
+        length="32226900"
+        type="application/octet-stream" />
+    </item>
+  </channel>
 </rss>
