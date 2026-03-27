@@ -9,14 +9,14 @@
     <language>en</language>
     <item>
       <title>Version 26.3.19</title>
-      <sparkle:version>132</sparkle:version>
+      <sparkle:version>133</sparkle:version>
       <sparkle:shortVersionString>26.3.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 27 Mar 2026 14:48:42 GMT</pubDate>
+      <pubDate>Fri, 27 Mar 2026 14:56:30 GMT</pubDate>
       <description><![CDATA[<a href="https://raw.githubusercontent.com/tdaval-78/riftskin-updates/main/RiftSkin-26.3.19.html">Release notes</a>]]></description>
       <enclosure
         url="https://github.com/tdaval-78/riftskin-updates/releases/download/v26.3.19/RiftSkin-26.3.19.zip"
-        sparkle:version="132"
+        sparkle:version="133"
         sparkle:shortVersionString="26.3.19"
         length="32229702"
         type="application/octet-stream" />
