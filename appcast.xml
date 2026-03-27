@@ -4,21 +4,21 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>RiftSkin Updates</title>
-    <link>https://riftskin.com</link>
+    <link>https://riftskin.com/status.html</link>
     <description>RiftSkin macOS updates</description>
     <language>en</language>
     <item>
-      <title>Version 26.3.18</title>
-      <sparkle:version>129</sparkle:version>
-      <sparkle:shortVersionString>26.3.18</sparkle:shortVersionString>
+      <title>Version 26.3.19</title>
+      <sparkle:version>132</sparkle:version>
+      <sparkle:shortVersionString>26.3.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <pubDate>Thu, 26 Mar 2026 22:26:59 GMT</pubDate>
-      <description><![CDATA[<a href="https://raw.githubusercontent.com/tdaval-78/riftskin-updates/main/RiftSkin-26.3.18.html">Release notes</a>]]></description>
+      <pubDate>Fri, 27 Mar 2026 14:48:42 GMT</pubDate>
+      <description><![CDATA[<a href="https://raw.githubusercontent.com/tdaval-78/riftskin-updates/main/RiftSkin-26.3.19.html">Release notes</a>]]></description>
       <enclosure
-        url="https://github.com/tdaval-78/riftskin-updates/releases/download/v26.3.18/RiftSkin-26.3.18.zip"
-        sparkle:version="129"
-        sparkle:shortVersionString="26.3.18"
-        length="32230024"
+        url="https://github.com/tdaval-78/riftskin-updates/releases/download/v26.3.19/RiftSkin-26.3.19.zip"
+        sparkle:version="132"
+        sparkle:shortVersionString="26.3.19"
+        length="32229702"
         type="application/octet-stream" />
     </item>
   </channel>
