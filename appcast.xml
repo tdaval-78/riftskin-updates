@@ -8,17 +8,17 @@
     <description>RiftSkin macOS updates</description>
     <language>en</language>
     <item>
-      <title>Version 26.4.5</title>
-      <sparkle:version>154</sparkle:version>
-      <sparkle:shortVersionString>26.4.5</sparkle:shortVersionString>
+      <title>Version 26.4.6</title>
+      <sparkle:version>155</sparkle:version>
+      <sparkle:shortVersionString>26.4.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 08 Apr 2026 23:54:32 GMT</pubDate>
-      <description><![CDATA[<a href="https://raw.githubusercontent.com/tdaval-78/riftskin-updates/mainRiftSkin-26.4.5.html">Release notes</a>]]></description>
+      <pubDate>Thu, 09 Apr 2026 00:06:20 GMT</pubDate>
+      <description><![CDATA[<a href="https://raw.githubusercontent.com/tdaval-78/riftskin-updates/mainRiftSkin-26.4.6.html">Release notes</a>]]></description>
       <enclosure
-        url="https://github.com/tdaval-78/riftskin-updates/releases/download/v26.4.5/RiftSkin-26.4.5.zip"
-        sparkle:version="154"
-        sparkle:shortVersionString="26.4.5"
-        length="25336896"
+        url="https://github.com/tdaval-78/riftskin-updates/releases/download/v26.4.6/RiftSkin-26.4.6.zip"
+        sparkle:version="155"
+        sparkle:shortVersionString="26.4.6"
+        length="25336900"
         type="application/octet-stream" />
     </item>
   </channel>
